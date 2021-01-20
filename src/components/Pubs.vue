@@ -20,7 +20,7 @@
           <b-row align-h="between">
             <b-col cols="12">
               <div class="d-flex justify-content-between">
-                <a class="mb-1" href="http://dx.doi.org/10.1093/oxfordhb/9780190464745.013.5" target="_blank">
+                <a class="mb-1" href="https://github.com/emdupre/emdupre.github.io/blob/bootstrap/assets/pubs/dupre_inpress_oxford.pdf" target="_blank">
                   Rumination Is a Sticky Form of Spontaneous Thought
                 </a>
               </div>

@@ -42,6 +42,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/favicon.ico');
   eleventyConfig.addPassthroughCopy('src/admin');
   eleventyConfig.addPassthroughCopy('src/assets/img');
+  eleventyConfig.addPassthroughCopy('src/assets/academicons');
+  eleventyConfig.addPassthroughCopy('src/assets/fontawesome');
 
   // Customize Markdown library and settings
   let markdownLibrary = markdownIt({

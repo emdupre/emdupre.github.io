@@ -115,7 +115,8 @@ a:hover {
 }
 
 a.github, .google,
- .twitter, .orcid {
+ .twitter, .mastodon, 
+ .orcid, .linkedin {
    color:  #6a6e75;
  }
 
@@ -128,8 +129,14 @@ a.google:hover {
 a.twitter:hover {
     color:#0084FF
 }
+a.mastodon:hover {
+    color:#5946db
+}
 a.orcid:hover {
     color:#A6CE39
+}
+a.linkedin:hover {
+    color: #0a66c2
 }
 
 div.social {

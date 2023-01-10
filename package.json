@@ -16,13 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "git+https://github.com/tylerMRoderick/fernfolio-11ty-template.git"
   },
-  "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
-  },
+  "author": "Tyler M. Roderick <troderick@protonmail.com> (https://www.tylerroderick.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
@@ -45,5 +41,7 @@
     "postcss-scss": "^4.0.4",
     "rimraf": "^3.0.2",
     "sass": "^1.54.3"
-  }
+  },
+  "main": ".eleventy.js",
+  "keywords": []
 }

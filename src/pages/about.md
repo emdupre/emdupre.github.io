@@ -9,11 +9,11 @@ eleventyNavigation:
   order: 1
 ---
 
-I am currently a [Wu Tsai interdisciplinary postdoctoral research fellow](https://neuroscience.stanford.edu/people/elizabeth-dupre) at Stanford University, working between the [Poldrack](https://poldracklab.stanford.edu/) and [Linderman](https://web.stanford.edu/~swl1/) labs.
+I am currently a postdoctoral researcher at the Université de Montréal, working in the [SIMEXP lab](https://simexp.github.io/lab-website).
 
 As a psychologist and computational neuroscientist, my work focuses on developing methods to characterize complex, naturalistic cognition in health and disease. Specifically, my current projects aim to model individual brain activity across a range of cognitive states—and to assess the generalizability of these individualized models—by extending statistical methods for human neuroimaging data analysis.
 
-My background is in cognitive neuroscience, with a Ph.D. in neuroscience from McGill University and Bachelors and Masters degrees in developmental psychology from Cornell University. My dissertation focused on benchmarking emerging methods to compare functional activations during complex cognitive tasks.
+My background is in cognitive neuroscience, with a Ph.D. in neuroscience from McGill University as well as Bachelors and Masters degrees in developmental psychology from Cornell University. My dissertation focused on benchmarking emerging methods to compare functional activations during complex cognitive tasks. I previously completed a Wu Tsai Interdisciplinary postdoctoral fellowship at Stanford University, where I worked on developing new methods for handling inter-individual variability in neuroimaging time series.
 
-As part of my research, I help to develop several tools used across the open Python ecosystem such as [Nilearn](https://nilearn.github.io). I'm also actively involved in community initiatives to promote open, interdisciplinary science. I currently serve as chair of the [Organization for Human Brain Mapping](https://www.humanbrainmapping.org) (OHBM) [Communications Committee](https://ohbm-com.com) and as a handling editor at the [Journal of Open Source Software (JOSS)](https://joss.theoj.org).
+As part of my research, I help to develop several tools used across the open Python ecosystem such as [Nilearn](https://nilearn.github.io) and [fmralign](https://parietal-INRIA.github.io/fmralign). I'm also actively involved in community initiatives to promote open, interdisciplinary science. 
 
